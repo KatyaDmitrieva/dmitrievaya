@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <title>Екатерина Дмитриева</title>
+</head>
+  </head>
+  <body>
+    <p>
+<div class="pic">
+    <img class="one" src="https://static.tildacdn.com/tild3366-3736-4532-b066-303635383137/Group_1_2.png" width="350" height="350">
+</div>
+</p>
+  <section>
+   <p>
+     <h1 style="margin-top: 30px">Катя Дмитриева</h1>
+    <section>
+      <h2>Начинающий редактор</h2>
+      </p>
+   </section>
+  <div class="telegram">
+    <a href="https://t.me/Dmitrievaya"><img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536705.png?token=exp=1642700731~hmac=4d1af97b3056591549dc9cdc04ac8b0c" width="30" height="30"></a>
+</div>
+  <section>
+  <p class="about" style="margin-left: 350px; margin-right: 300px">
+У меня пока нет опыта работы с текстом. Учусь <a href="https://bureau.ru/school/editors/15/" style="color: #5199ff"> в Школе Бюро Горбунова</a>, чтобы стать редактором, который приносит пользу клиентам и отвечает за успех продуктов: сайтов, статей, промо﻿страниц.
+<br>
+  <br>
+Работала трейд-маркетологом <a href="http://katyadmitrieva.tilda.ws/#experience" style="color: #5199ff">в корпорациях</a> — увеличивала продажи
+в торговых сетях при помощи промо-акций и рекламных материалов. Управляла командой продаж. Организовывала мероприятия под ключ: дегустации, семплинги, онлайн-конференции.
+<br>
+  <br>
+Хочу стать редактором, чтобы решать задачи разных компаний. Писать интересные тексты в мире читателя. Делать работу, которая приносит пользу.
+  </p>
+</section>
+ <div class="portfolio">
+    <a><img src="https://cdn-icons-png.flaticon.com/128/726/726056.png" width="30" height="30"></a>
+</div>
+ <p>
+     <h3>Мои работы</h3></p>
+  <ul style="margin-left: 350px; margin-right: 300px">
+    <li style="margin-bottom: 30px">Переупаковала <a href="https://multimarket.pro/blog/kak_vistroit_politiku_skidok" style="color: #5199ff">статью из блога «Мультимаркета»</a> в карточки для поста ВКонтакте</li>
+     <a href="https://www.figma.com/file/l2V9vtykGh8g40b96L2wyZ/Skidki_Test_Vk?node-id=0%3A1"><img src="https://static.tildacdn.com/tild3030-3034-4631-b036-373430616230/post_container.png" width="500"></a>
+</p>
+<p class="work1" style="margin-top:-50px">
+Нажмите на изображение,
+чтобы посмотреть карточки в Фигме
+</p>
+<p>
+<li style="margin-bottom: 30px; margin-top: 30px"> Отредактировала памятку для рассылки
+участникам <a href="https://cyberpolygon.com/ru/" style="color: #5199ff"> онлайн-конференции </a></li>
+     <a href="https://www.figma.com/file/HWVKPdpEai7f7iD9rwJOk2/CyberPolygonLetter?node-id=0%3A1"><img src="https://static.tildacdn.com/tild3233-3166-4531-b661-303562373635/Cyber_Polygon_Letter.png" width="500"></a>
+</p>
+<p class="work2" style="margin-top:-10px">
+Нажмите на изображение,
+чтобы посмотреть памятку в Фигме
+</p>
+<p>
+<li style="margin-bottom: 30px; margin-top: 30px"> Вступительное задание <a href="https://bureau.ru/school/editors/15/" style="color: #5199ff">Школы редакторов:</a> придумала набор видеооборудования и сделала для него лендинг</li>
+     <a href="https://www.figma.com/file/T2Ft6NERC3nyTIcYISEobp/VLOGBOX?node-id=0%3A1"><img src="https://static.tildacdn.com/tild3931-3131-4163-b666-643566386530/VLOGBOX_1.png" width="500"></a>
+</p>
+<p class="work3" style="margin-top:-10px">
+Нажмите на изображение,
+чтобы посмотреть лендинг в Фигме
+</p>
+<p>
+<li style="margin-bottom: 30px; margin-top: 30px"> Отредактировала и сверстала интервью <a href="https://ktostudent.ru/" style="color: #5199ff">для журнала «Кто студент»</a></li>
+     <a href="http://katyadmitrieva.tilda.ws/kseniya-terletskaya"><img src="https://static.tildacdn.com/tild3165-3263-4262-a233-613733376134/photo.png" width="500"></a>
+</p>
+<p class="work3" style="margin-top:-10px">
+Нажмите на изображение,
+чтобы прочитать интервью
+</p></ul>
+  <div class="mail">
+    <a href="mailto:dmitrievaya@inbox.ru"><img src="https://cdn-icons.flaticon.com/png/128/1916/premium/1916976.png?token=exp=1642710116~hmac=a3282779ad47fe98eb8d9519acc714bb" width="30" height="30"></a>
+</div>
+ <div class="mail1">
+ <a href="mailto:dmitrievaya@inbox.ru" style="color: #5199ff">dmitrievaya@inbox.ru</a></div> 
+ </body>
+</html>
